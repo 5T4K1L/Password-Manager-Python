@@ -1,2 +1,12 @@
-# Password-Manager-Python
-Password Manager Using .txt File — Python
+- This password manager is only available on Windows.
+- It doesn't use any cloud servers like SQL to upload your saved passwords online.
+- It only saves your passwords on your File Explorer.
+- Once you factory reset your Windows, the passwords you saved will also be deleted.
+- You can access your passwords only on what device you downloaded the file.
+
+- It has a master password.
+- It hashes your password.
+- You can only view the unhashed password onced you entered your account's master password.
+- Have signup and login.
+- It can store multiple accounts.
+- It doesn't have a GUI.
